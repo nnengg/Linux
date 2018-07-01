@@ -10,13 +10,7 @@ A   移动光标到行尾并处于“追加”状态，直接编辑<br>
 H   移动光标到屏幕第一行<\t>gg
 M   移动光标到屏幕中间一行<br>
 L   移动光标到屏幕末尾行<br>
-gg  移动光标到文档<br>
-<table>
-    <tr>
-        <td>w   移动光标到下一个单词的开头</td>
-    </tr>
-</table>
-<ul>
-<li><p>Bird</p></li>
-<li><p>Magic</p></li>
-</ul>
+gg  移动光标到文档第一行<br>
+G   移动光标到文档末尾行<br>
+:n  光标跳到第n行
+<p>adfasfasdf</p>
