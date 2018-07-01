@@ -12,8 +12,8 @@ H   移动光标到屏幕第一行<\t>gg
 M   移动光标到屏幕中间一行<br>
 L   移动光标到屏幕末尾行<br>
 gg  移动光标到文档<br>
-| Tables | Are | Cool |
+| Tables | Are | Cool |<p>
 | ------------- |:-------------:| -----:|
 | col 3 is | right-aligned | $1600 |
 | col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
+| zebra stripes | are neat | $1 |</p>
