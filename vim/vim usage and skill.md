@@ -16,3 +16,8 @@ gg  移动光标到文档<br>
         <td>w   移动光标到下一个单词的开头</td>
     </tr>
 </table>
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
