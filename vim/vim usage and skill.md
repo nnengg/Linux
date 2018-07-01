@@ -13,5 +13,5 @@ L   移动光标到屏幕末尾行<br>
 gg  移动光标到文档第一行<br>
 G   移动光标到文档末尾行<br>
 :n  光标跳到第n行<br>
-Ctrl + f  向下翻页 = page down
-Ctrl + b  向上翻页 = page up
+Ctrl + f  向下翻页 = page down<br>
+Ctrl + b  向上翻页 = page up<br>
