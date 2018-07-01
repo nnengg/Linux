@@ -14,7 +14,7 @@ gg  移动光标到文档第一行<br>
 G   移动光标到文档末尾行<br>
 :n  光标跳到第n行
 <p>
-  <span style="font-family: 'Times New Roman';">w</span>
+  <span style="font-family: '楷体';">w</span>
   移动光标
 </span>
 </p>
