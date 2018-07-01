@@ -16,4 +16,4 @@ gg  移动光标到文档<br>
 | ------------- |:-------------:| -----:|<p>
 |    col 3 is   | right-aligned | $1600 |<p>
 |    col 2 is   |    centered   |  $12  |<p>
-| zebra stripes |    are neat   |   $1  |</p>
+| zebra stripes |    are neat   |   $1  |<p></p>
