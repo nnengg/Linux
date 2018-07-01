@@ -15,3 +15,10 @@ G   移动光标到文档末尾行<br>
 :n  光标跳到第n行<br>
 Ctrl + f  向下翻页 = page down<br>
 Ctrl + b  向上翻页 = page up<br>
+Ctrl + d  向下翻半页<br>
+Ctrl + u  向上翻半页<br>
+Ctrl + e  向下翻一行<br>
+Ctrl + y  向上翻一行<br>
+
+ [[ 转到上一个位于第一列的“{”<br>
+ 
