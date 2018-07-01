@@ -13,6 +13,6 @@ L   移动光标到屏幕末尾行<br>
 gg  移动光标到文档<br>
 <table>
     <tr>
-        <td>Foo</td>
+        <td>w   移动光标到下一个单词的开头</td>
     </tr>
 </table>
