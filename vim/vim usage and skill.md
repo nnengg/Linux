@@ -12,9 +12,5 @@ M   移动光标到屏幕中间一行<br>
 L   移动光标到屏幕末尾行<br>
 gg  移动光标到文档第一行<br>
 G   移动光标到文档末尾行<br>
-:n  光标跳到第n行
-<p>
-  <span style="font-family: '楷体';">w</span>
-  移动光标
-</span>
-</p>
+:n  光标跳到第n行<br>
+Ctrl + f  向下翻页 =page down
